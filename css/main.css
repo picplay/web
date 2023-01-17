@@ -20,8 +20,9 @@ body {
 
 
 header {
+    background-color: #000;
     margin-top: 75px;
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 
 #motivational {
