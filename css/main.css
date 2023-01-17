@@ -33,6 +33,11 @@ header {
     margin-top: 40pxx;
 }
 
+#info-one {
+    background-color: #000;
+    color: white;
+}
+
 .navbar-nav.ms-auto a {
     background-color: #ff0000;
     color: #000;
