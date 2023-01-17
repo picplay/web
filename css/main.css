@@ -49,6 +49,11 @@ header {
   }
 
 
+  .navbar navbar-expand-lg navbar-light bg-light fixed-top{
+    background-color: #ff0000;
+  }
+
+
  #social {
   
     background:#ff0000;
