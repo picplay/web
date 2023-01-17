@@ -17,6 +17,13 @@ body {
     }
   }
 
+  
+  @media (max-width: 767px) {
+    .container2-image {
+      text-align: center;
+    }
+  }
+
 
 
 header {
