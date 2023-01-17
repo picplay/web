@@ -37,6 +37,10 @@ header {
     background-color: #000;
     color: white;
 }
+#info-two {
+    background-color: #000;
+    color: white;
+}
 
 .navbar-nav.ms-auto a {
     background-color: #ff0000;
